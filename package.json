@@ -24,7 +24,7 @@
 		"web"
 	],
 	"author": "Claudius A.",
-	"license": "ISC",
+	"license": "MIT",
 	"devDependencies": {
 		"vite": "^5.1.5"
 	}
