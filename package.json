@@ -1,7 +1,7 @@
 {
 	"name": "js-framework",
 	"version": "1.0.0",
-	"description": "My initial attempt at developing and understanding how a JavaScript frontend framework works using M. Frachet's tutorials at: https://mfrachet.github.io/create-frontend-framework/. ",
+	"description": "My initial attempt at learning and understanding how a JavaScript frontend framework works using M. Frachet's tutorials at: https://mfrachet.github.io/create-frontend-framework/. ",
 	"main": "index.js",
 	"repository": {
 		"type": "git",
