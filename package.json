@@ -1,0 +1,31 @@
+{
+	"name": "js-framework",
+	"version": "1.0.0",
+	"description": "My initial attempt at developing and understanding how a JavaScript frontend framework works using M. Frachet's tutorials at: https://mfrachet.github.io/create-frontend-framework/. ",
+	"main": "index.js",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/ClaudiusAyadi/js-framework.git"
+	},
+	"scripts": {
+		"dev": "vite",
+		"build": "vite build",
+		"preview": "vite preview"
+	},
+	"keywords": [
+		"frontend",
+		"framework",
+		"javascript",
+		"vite",
+		"mfrachet",
+		"tutorial",
+		"learning",
+		"development",
+		"web"
+	],
+	"author": "Claudius A.",
+	"license": "ISC",
+	"devDependencies": {
+		"vite": "^5.1.5"
+	}
+}
